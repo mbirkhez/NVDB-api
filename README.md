@@ -6,13 +6,21 @@ Find the object number in Datakatalog:
 https://datakatalogen.atlas.vegvesen.no/#/
 
 ## Packages Info:
+
 python version 3.10.2
+
 pandas version 1.4.0
+
 requests version 2.27.1
 
-You might need the following packages for reading geometric coordinates:
+## You might need the following packages for reading geometric coordinates:
+
 geopandas
+
 geos
+
 geotiff
+
 gdown
+
 gdal
