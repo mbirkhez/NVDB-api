@@ -13,7 +13,7 @@ pandas version 1.4.0
 
 requests version 2.27.1
 
-## You might need the following packages for reading geometric coordinates:
+## You need the following packages for reading geometric coordinates:
 
 geopandas
 
